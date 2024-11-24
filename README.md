@@ -30,10 +30,10 @@ In this paper, we introduce a new approach called Partial filter-Sharing (PS) to
 
 The results are evaluated with the average PSNR (dB) and SSIM on the Y channel of the YCbCr colorspace.
 
-<p align="center"><img src="figures/paramvperf.png" width="900"></p>
+<p align="center"><img src="figures/paramvperf.png" width="450"></p>
 
 ### Visualized Results
-<p align="center"><img src="figures/visualized.png" width="900"></p>
+<p align="center"><img src="figures/visualized.png" width="450"></p>
 
 ## Codes
 
